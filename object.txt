@@ -1,0 +1,46 @@
+Hi prawin
+--------------
+
+My new object has created
+
+------------------------
+
+New world 143
+---------------------
+
+Evergreen 143
+----------------
+syntex
+-
+-
+-
+-
+--------------------------------
+
+Love is everything 
+-------------------
+
+I want to achieve 
+------------------
+Struggle lot
+face all the problem
+become strong
+Deal all the issues in left hand
+Enjoy the world till last breath
+
+----------------------------------------------
+
+
+
+#!/bin/bash
+yum install httpd -y
+service httpd start
+echo "<h1> Welcome to Singapore </h1>"> /var/www/html/index.html
+
+
+#!/bin/bash
+yum install httpd -y
+service httpd start
+echo "<h1> Welcome to Singapore </h1>"> /var/www/html/index.html
+
+ 
